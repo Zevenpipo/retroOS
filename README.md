@@ -79,4 +79,4 @@
 
 ```bash
 # Descargar e instalar
-curl -sSL https://raw.githubusercontent.com/tuusuario/retroos/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Zevenpipo/retroOS/main/install_retroos.sh | bash
