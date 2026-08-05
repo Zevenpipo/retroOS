@@ -3,8 +3,9 @@
 <div align="center">
 
 ![RetroOS Banner](https://img.shields.io/badge/RetroOS-Raspberry%20Pi%204-blueviolet?style=for-the-badge&logo=raspberry-pi)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)](https://github.com/tuusuario/retroos)
+[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)](https://github.com/zevenpipo/retroos)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4B-red?style=flat-square&logo=raspberry-pi)](https://www.raspberrypi.com/)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-3B-pink?style=flat-square&logo=raspberry-pi)](https://www.raspberrypi.com/)
 [![RetroArch](https://img.shields.io/badge/RetroArch-latest-blue?style=flat-square&logo=retroarch)](https://www.retroarch.com/)
 [![License](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](LICENSE)
 
